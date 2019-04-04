@@ -1,0 +1,1 @@
+A java application with swing interface that simulates the queues of a bussness and offers valuable statistics in order to find the best use of personnel and space.
